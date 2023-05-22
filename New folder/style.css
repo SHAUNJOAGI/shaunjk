@@ -1,0 +1,16 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:azure;
+}
+h3{
+    color: rgb(red, green, blue);
+}
+.external h3 {
+     color:rgb(red, green, blue);
+}
+.position{
+    margin-left:150px;
+    margin-top: 52%;
+    border:2px solid red;
+    padding-left: 20px ;
+}
